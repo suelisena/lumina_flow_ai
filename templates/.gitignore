@@ -1,0 +1,33 @@
+# --- Segurança (CRÍTICO) ---
+.env
+secret.py
+auth.json
+
+# --- Ambientes Virtuais ---
+venv/
+env/
+ENV/
+.venv/
+
+# --- Cache de Python ---
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# --- IDEs ---
+.vscode/
+.idea/
+.project
+.pydevproject
+.settings/
+
+# --- Sistema Operacional ---
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# --- Logs e Dados Temporários ---
+*.log
+tmp/
+temp/
