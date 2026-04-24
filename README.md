@@ -53,7 +53,11 @@ O sistema opera em um fluxo de quatro etapas:
 
 ### 📸 Preview
 <p align="center">
-  <img src="caminho/para/seu/print_dashboard.png" width="800" alt="Dashboard LuminaFlow">
+  <img src="screenshots/index.png" width="800" alt="LuminaFlow">
+  <img src="screenshots/prompt.png" width="800" alt="LuminaFlow">
+  <img src="screenshots/dados_inseridos.png" width="800" alt="LuminaFlow">
+  <img src="screenshots/dashboard.png" width="800" alt="LuminaFlow">
+  <img src="screenshots/mongo.png" width="800" alt="LuminaFlow">
 </p>
 
 ---
@@ -91,3 +95,4 @@ python app.py
 
 👩‍💻 Autora
 Sueli Sena Systems Analyst Specialist | Full Stack Developer | AI Enthusiast
+Linkedin: https://www.linkedin.com/in/sueli-sena/
