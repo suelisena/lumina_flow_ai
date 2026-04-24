@@ -53,11 +53,11 @@ O sistema opera em um fluxo de quatro etapas:
 
 ### 📸 Preview
 <p align="center">
-  <img src="screenshots/index.png" width="800" alt="LuminaFlow">
-  <img src="screenshots/prompt.png" width="800" alt="LuminaFlow">
-  <img src="screenshots/dados_inseridos.png" width="800" alt="LuminaFlow">
-  <img src="screenshots/dashboard.png" width="800" alt="LuminaFlow">
-  <img src="screenshots/mongo.png" width="800" alt="LuminaFlow">
+  <img src="screenshots/index.png" width="800" alt="pagina principal">
+  <img src="screenshots/prompt.png" width="800" alt="inserindo prompt">
+  <img src="screenshots/dados_inseridos.png" width="800" alt="dados inseridos com sucesso">
+  <img src="screenshots/dashboard.png" width="800" alt="dashboard">
+  <img src="screenshots/mongo.png" width="800" alt="Mongo">
 </p>
 
 ---
