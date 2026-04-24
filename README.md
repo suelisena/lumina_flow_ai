@@ -80,19 +80,22 @@ O sistema opera em um fluxo de quatro etapas:
 python -m venv venv
 # Windows:
 venv\Scripts\activate
+
 # Linux/Mac:
-source venv/bin/activate
+ source venv/bin/activate
 
 3. Instale as dependências:
-pip install -r requirements.txt
+ pip install -r requirements.txt
 
 4. Configure as variáveis de ambiente (.env):
+   
 GROQ_API_KEY=sua_chave_aqui
 MONGO_URI=sua_uri_do_mongodb
 
 6. Execute a aplicação:
-python app.py
+ python app.py
 
 👩‍💻 Autora
 Sueli Sena Systems Analyst Specialist | Full Stack Developer | AI Enthusiast
+
 Linkedin: https://www.linkedin.com/in/sueli-sena/
